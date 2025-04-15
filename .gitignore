@@ -1,2 +1,3 @@
-*list_lessons.py
-*progress.json
+list_lessons.py
+progress.json
+__pycache__/
