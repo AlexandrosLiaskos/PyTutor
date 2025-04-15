@@ -2,6 +2,12 @@
 
 An interactive, terminal-based application designed to help users learn the fundamentals of Python programming step-by-step.
 
+![Screenshot 2025-04-15 133143](https://github.com/user-attachments/assets/0740a7df-c84f-4ca4-a383-19f9bd1f6277)
+![Screenshot 2025-04-15 133203](https://github.com/user-attachments/assets/4866cb44-e3b3-4237-bb36-f094b1418bb9)
+![Screenshot 2025-04-15 133237](https://github.com/user-attachments/assets/b10bad54-fdee-4c72-ac8d-943ee38beb7b)
+![Screenshot 2025-04-15 133259](https://github.com/user-attachments/assets/76f955f5-b512-4c05-a6d5-e0c5d1ec1057)
+
+
 ## Features
 
 *   **Interactive Learning:** Learn Python directly within your terminal.
